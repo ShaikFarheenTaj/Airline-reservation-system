@@ -1,5 +1,5 @@
 # Airline-reservation-system-java
-Username: admin /br
+Username: admin   
 Password: admin
 
 
